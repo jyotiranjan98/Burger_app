@@ -1,0 +1,22 @@
+.burger {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+.bread-top, .bread-bottom {
+    background: #F08E4A;
+    height: 40px;
+}
+.slice {
+    height: 20px;
+    margin: 5px 0;
+}
+.aloo-tikki {
+    background: #d4a017;
+}
+.cheese {
+    background: #f9c74f;
+}
+.paneer {
+    background: #f94144;
+}
